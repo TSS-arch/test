@@ -1,5 +1,0 @@
-POST   /api/upload-database
-GET    /api/database-status
-DELETE /api/delete-database
-GET    /api/download-database
-GET    /api/health
